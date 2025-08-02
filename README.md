@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brayan Biino
+# 👋 Hi, I'm Brian
 
 🎓 **Aspiring Full-Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
 📍 Based in Kenya | 🌍 Passionate about building and securing systems
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an ambitious learner exploring the worlds of **software development** and **cybersecurity**.  
+I'm an ambitious learner exploring the worlds of **software development** , **data** and **cybersecurity**.  
 My goal is to create meaningful digital tools while understanding how systems work — and how to secure them.
 
 I believe in learning by doing, and I enjoy challenging myself with real-world projects.
