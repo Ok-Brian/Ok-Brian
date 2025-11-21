@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brian
 
-🎓 **Aspiring Full-Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
+🎓 **A Full-Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
 📍 Based in Kenya | 🌍 Passionate about building and securing systems
 
 ---
